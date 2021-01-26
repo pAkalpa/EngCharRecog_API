@@ -29,4 +29,4 @@ def feedModel():
     return jsonify(prediction)
 
 if __name__ == '__main__':
-    app.run(port=8080,debug=False,threaded=True)   
+    app.run(port=5000,debug=False,threaded=True)   
