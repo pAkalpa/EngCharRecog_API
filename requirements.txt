@@ -6,3 +6,4 @@ requests==2.24.0
 Pillow==8.1.0
 gunicorn==20.0.4
 scikit_learn==0.24.1
+dammit==0.3.2
